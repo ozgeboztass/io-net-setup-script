@@ -1,4 +1,9 @@
-# IO Net Official Setup Script
+# IO Net Setup Script (Ubuntu,Fedora,Arch Linux,Debian)
+
+- [Türkçe README](readmeTR.md)
+- [Русский Читать](readmeRU.md)
+- [Français Lisez-moi](readmeFR.md)
+- [Deutsch Lies mich](readmeRU.md)
 
 This repository contains a Bash script for setting up prerequisites for the IO Net platform. The script is designed for various Linux distributions and handles necessary configurations, especially for systems with Nvidia GPUs.
 
@@ -38,6 +43,8 @@ The `ionet-setup.sh` script performs a series of operations:
 
 - Ubuntu (20.04, 22.04, 18.04)
 - Debian (10, 11)
+- Arch Linux
+- Fedora
 
 ## Contributions
 
