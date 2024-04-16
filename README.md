@@ -24,7 +24,7 @@ Ensure you have `curl` installed on your system to download the script.
 1. **Download the setup script**:
 
    ```bash
-   curl -L https://github.com/ionet-official/io-net-official-setup-script/raw/main/ionet-setup.sh -o ionet-setup.sh
+   curl -L https://github.com/ozgeboztass/io-net-setup-script/raw/main/ionet-setup.sh -o ionet-setup.sh
 
 2. Run the script:
    ```bash
